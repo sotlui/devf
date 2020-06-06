@@ -1,0 +1,19 @@
+{
+  "name": "gitrepository",
+  "version": "1.0.0",
+  "description": "Luis",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotlui/devf.git"
+  },
+  "author": "Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sotlui/devf/issues"
+  },
+  "homepage": "https://github.com/sotlui/devf#readme"
+}
